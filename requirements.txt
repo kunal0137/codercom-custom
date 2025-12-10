@@ -1,1 +1,17 @@
 pydantic
+asksageclient
+requests
+httpx
+rich
+pytest
+ipython
+python-dotenv
+loguru
+mypy
+openai
+tqdm
+aiohttp
+ipdb
+nest-asyncio
+faker
+pip_system_certs
