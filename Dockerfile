@@ -1,4 +1,4 @@
-#docker build -t kunal0137/code-server:4.106.3-39 .
+#docker build -t kunal0137/code-server:4.106.3-39-2025-12-10 .
 FROM codercom/code-server:4.106.3-39
 
 USER root
